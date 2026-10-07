@@ -1,0 +1,22 @@
+let nama = "Hary AKbar";
+let umur = 19;
+let tinggi = 167;
+let MahasiswaAktif = true;
+let alamat = "Sukabumi";
+let nilai = 90;
+let lulus = true;
+
+console.log (nama);
+console.log (umur);
+console.log (tinggi);
+console.log (MahasiswaAktif);
+console.log (alamat);
+console.log (nilai);
+console.log (lulus);
+console.log (typeof nama);
+console.log (typeof umur);
+console.log (typeof tinggi);
+console.log (typeof MahasiswaAktif);
+console.log (typeof alamat);
+console.log (typeof nilai);
+console.log (typeof lulus);
