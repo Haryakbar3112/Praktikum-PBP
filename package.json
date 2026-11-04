@@ -7,7 +7,8 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "run"
+    "test": "run",
+    "start": "node Server.js"
   },
   "dependencies": {
     "git": "^0.1.5"
