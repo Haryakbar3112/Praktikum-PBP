@@ -1,0 +1,15 @@
+{
+  "name": "pbp",
+  "version": "1.0.0",
+  "description": "PBP pertemuan 7",
+  "license": "ISC",
+  "author": "Hary",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
